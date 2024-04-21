@@ -1,14 +1,6 @@
 # Problem Statement - User Authorization
 
-Build a REST API using ExpressJS and use a third-party authorization API like GitHub to allow users to log in to your application.
-OAuth is an efficient and simple way to get access to protected data from an external application. It is more secure than asking users to log in with passwords.
-
-- Create an Express server to service requests from clients​
-- Build an html page that will be called when a client request is made to the root path of the application​
-- Maintain all the static files in a separate folder​
-- Redirect the user to GitHub to provide login credentials​
-- Using the code from GitHub, get an access token​
-- Login to the Node.js application and write the token in the cookie​​
+Create OAuth Github with Express.js
 
 # Instructions
 
