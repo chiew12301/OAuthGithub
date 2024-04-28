@@ -26,6 +26,3 @@ Create OAuth Github with Express.js
 - Run the test scripts available under **src/test** by giving `npm run test` command in the terminal to test locally.
 - Refactor the solution to ensure all test cases are passing.
 - Zip the solution code with the name same as assignment name.
-- Upload the zipped solution for submission.
-
--
